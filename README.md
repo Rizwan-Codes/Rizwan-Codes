@@ -1,45 +1,52 @@
-<h1 align="center">Rizwan Ali</h1>
-<p align="center">
-  <b>Frontend Developer</b> · React · Tailwind CSS<br>
-  BSCS Graduate, GCUF · Based in Punjab, Pakistan
-</p>
+# Hi, I'm Rizwan Ali 👋
 
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+### Frontend Developer | React.js | JavaScript
+
+I'm a Computer Science graduate passionate about building responsive, user-friendly web applications. I work with React.js, JavaScript, and Tailwind CSS to turn ideas into functional web experiences.
+
+I'm currently looking for **Junior Frontend Developer opportunities and internships** where I can contribute to real-world projects, improve my development skills, and grow as a developer.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code, Vite
+- **Concepts:** Responsive Design, React Hooks, React Router, Context API, REST APIs
+
+## 🚀 Featured Projects
+
+### ShopSphere — E-commerce Web App
+A responsive shopping experience featuring product search, category filtering, sorting, and cart management.
+
+**Tech:** React.js, React Router, Tailwind CSS, Context API, LocalStorage
+
+- [Live Demo](YOUR_SHOPSPHERE_LIVE_URL) | [Source Code](YOUR_SHOPSPHERE_GITHUB_URL)
+
+### OMDb Movie App
+A movie discovery application that fetches movie data from an API and supports search and favorites.
+
+**Tech:** React.js, JavaScript, REST API, Tailwind CSS, LocalStorage
+
+- [Live Demo](YOUR_OMDB_LIVE_URL) | [Source Code](YOUR_OMDB_GITHUB_URL)
+
+### Expense Tracker
+A personal finance application for recording expenses and tracking spending.
+
+**Tech:** React.js, JavaScript, Tailwind CSS
+
+- [Live Demo](YOUR_EXPENSE_TRACKER_LIVE_URL) | [Source Code](YOUR_EXPENSE_TRACKER_GITHUB_URL)
+
+## 🌱 Currently Learning
+
+- Redux Toolkit and state management
+- Writing cleaner, reusable React components
+- Improving frontend architecture and code quality
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** YOUR_LINKEDIN_URL
+- **Portfolio:** YOUR_PORTFOLIO_URL
+- **Email:** YOUR_PROFESSIONAL_EMAIL
 
 ---
 
-## About
-
-I build responsive React interfaces and turn UI/UX designs into working products. I come from a UI/UX and graphic design background (20+ freelance client orders), so I pay close attention to layout, spacing, and how an interface actually feels to use.
-
-**Currently:** looking for a junior/entry-level frontend role · learning Framer Motion
-
-## Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**ReelRate**](REPO_LINK) · [Live](LIVE_LINK) | Movie search and rating app with the OMDb API | React 18, Vite, Tailwind, Context API |
-| [**Anigo**](REPO_LINK) · [Live](LIVE_LINK) | Anime streaming site frontend with dropdown menus and background slider | HTML, Tailwind CSS |
-| [**Notes App**](REPO_LINK) · [Live](LIVE_LINK) | Notes with Markdown preview, real-time search, localStorage | HTML, CSS, JavaScript |
-| [**Unit Converter Pro**](REPO_LINK) · [Live](LIVE_LINK) | Multi-category unit converter | JavaScript |
-| [**Color Palette Generator**](REPO_LINK) · [Live](LIVE_LINK) | Generates and copies color palettes | JavaScript |
-
-## Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
-**Also:** REST APIs, async JavaScript, React hooks, Context API, Chrome DevTools, Figma-style UI/UX design
-
-## Contact
-
-Open to opportunities. Reach me on [LinkedIn](YOUR_LINKEDIN_URL) or at YOUR_EMAIL.
+*Always learning, building, and improving.*
